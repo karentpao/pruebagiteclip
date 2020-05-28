@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Scriptlets JSP</h2>
+<h2>Scriptlets JSP karent Rodriguez</h2>
 <br><br>
 <a href="Scriptlets.jsp">Ejemplos scriptlets</a>
 <br><br>
